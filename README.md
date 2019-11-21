@@ -1,5 +1,15 @@
 # Salary_Prediction_Project
-Prediction of salaries of a worker
+Prediction of salaries of a workers based on some information about their profile 
+
+# File Guide
+
+Salary Prediction Model.ipynb : Where the data was preprocessed and the model created 
+
+Test_features.csv : The test data
+
+Train_features.csv: The train data
+
+Train_salaries : The train salries data
 
 Major Project to predict the salaries of workers in diffrent fields of work. 
 
