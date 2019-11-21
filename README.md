@@ -1,6 +1,9 @@
 # Salary_Prediction_Project
 Prediction of salaries of a workers based on some information about their profile 
 
+Major Project to predict the salaries of workers in diffrent fields of work. 
+
+
 # File Guide
 
 Salary Prediction Model.ipynb : Where the data was preprocessed and the model created 
@@ -11,7 +14,17 @@ Train_features.csv: The train data
 
 Train_salaries : The train salries data
 
-Major Project to predict the salaries of workers in diffrent fields of work. 
+# Problem Definition
+
+Examine a set of job details to relevant credentials and make salary prediction. The goal is to predict The salary of a job posting based on the given information
+
+# Exploratory Analysis
+
+Summerise the data in a meaningful way 
+
+Identify pattern and outliers 
+
+Examine the distribution of the variables 
 
 This project is highly tuned by the parameters to get the Mean Squared Error below 360.
 
