@@ -1,6 +1,8 @@
 # Salary_Prediction_Project
 Prediction of salaries of a workers based on some information about their profile 
 
+![](salaries.png)
+
 Major Project to predict the salaries of workers in diffrent fields of work. 
 
 
