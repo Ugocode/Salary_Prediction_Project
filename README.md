@@ -8,13 +8,13 @@ Major Project to predict the salaries of workers in diffrent fields of work.
 
 # File Guide
 
-Salary Prediction Model.ipynb : Where the data was preprocessed and the model created 
+Salary Prediction Model.ipynb : Where the data was preprocessed and the model created.
 
-Test_features.csv : The test data
+Test_features.csv : The test data.
 
-Train_features.csv: The train data
+Train_features.csv: The train data.
 
-Train_salaries : The train salries data
+Train_salaries : The train salries data.
 
 # Problem Definition
 
