@@ -1,5 +1,5 @@
 # Salary_Prediction_Project
-Prediction of salaries of a workers based on some information about their profile 
+Artificial Intelligence project on the prediction of salaries of workers based on some information about their profile 
 
 ![](salaries.png)
 
