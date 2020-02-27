@@ -18,7 +18,7 @@ Train_salaries : The train salries data.
 
 # Problem Definition
 
-Examine a set of job details to relevant credentials and make salary prediction. The goal is to predict The salary of a job posting based on the given information
+Examine a set of job details to relevant credentials and make salary prediction. The goal is to predict The salary of a job posting based on the given information.
 
 # Exploratory Analysis
 
