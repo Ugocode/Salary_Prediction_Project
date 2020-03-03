@@ -22,11 +22,11 @@ Examine a set of job details to relevant credentials and make salary prediction.
 
 # Exploratory Analysis
 
-Summerise the data in a meaningful way 
+Summerise the data in a meaningful way. 
 
-Identify pattern and outliers 
+Identify pattern and outliers. 
 
-Examine the distribution of the variables 
+Examine the distribution of the variables. 
 
 This project is highly tuned by the parameters to get the Mean Squared Error below 360.
 
