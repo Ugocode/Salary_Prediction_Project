@@ -14,7 +14,7 @@ Test_features.csv : The test data.
 
 Train_features.csv: The train data.
 
-Train_salaries : The train salries data.
+Train_salaries : The train salaries data.
 
 # Problem Definition
 
@@ -28,7 +28,7 @@ Identify pattern and outliers.
 
 Examine the distribution of the variables. 
 
-This project is highly tuned by the parameters to get the Mean Squared Error below 360.
+This project is highly tunned by the parameters to get the Mean Squared Error below 360.
 
 important features which helped in the predicting of the model was outlined.
 
