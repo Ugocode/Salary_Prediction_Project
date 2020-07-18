@@ -1,9 +1,9 @@
 # Salary_Prediction_Project
-Artificial Intelligence project on the prediction of salaries of workers based on some information about their profile 
+Artificial Intelligence project on the prediction of salaries of workers based on some information about their profile.
 
 ![](salaries.png)
 
-Major Project to predict the salaries of workers in diffrent fields of work. 
+It's a major Project to predict the salaries of workers in diffrent fields of work. 
 
 
 # File Guide
